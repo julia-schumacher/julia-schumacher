@@ -1,9 +1,9 @@
 
 
-👩🏼‍💻   Iniciando minha aventura no mundo da programação e explorando novas tecnologia.
-🎓   Estudando Design Gráfico no IESB.
-💼   Trabalhando como Ux Designer e apaixonada por problemas e soluções.
-⭐️   Viciada em Star Wars e café. 
+*👩🏼‍💻   Iniciando minha aventura no mundo da programação e explorando novas tecnologia.
+*🎓   Estudando Design Gráfico no IESB.
+*💼   Trabalhando como Ux Designer e apaixonada por problemas e soluções.
+*⭐️   Viciada em Star Wars e café. 
 
 Aplicações e Dados
 
