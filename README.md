@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**julia-schumacher/julia-schumacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👩🏼‍💻   Iniciando minha aventura no mundo da programação e explorando novas tecnologia.
+🎓   Estudando Design Gráfico no IESB.
+💼   Trabalhando como Ux Designer e apaixonada por problemas e soluções.
+⭐️   Viciada em Star Wars e café. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aplicações e Dados
+
+JavaScript HTML5 CSS 
+
+DevOps
+
+Git GitHub
+
+Ferramentas de Desenvolvimento
+
+Visual Studio Code Trello Figma Adobe XD
+
+🌎  Onde me encontrar:
+
+Linkedin: SEU NOME Gmail Badge GitHub SEU NOME
